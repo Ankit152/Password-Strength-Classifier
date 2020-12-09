@@ -8,5 +8,10 @@
 
 <p>The commercial password strength algorithms I used are of Twitter, Microsoft and battle. How is this algorithm different from these strength meters? First of all, it is entirely based on machine learning rather than on rules. Secondly, I only kept those passwords that were flagged weak, medium and strong by all three strength meters. This means that all the passwords were indeed either weak, medium or strong.</p>
 
-<p>I had a total of 3 million passwords but after taking the intersection of all classifications of commercial meters, I was left with 0.7 million passwords. The reduction was because of the fact that I only used passwords that were flagged in a particular category by all three algorithms.</p>
+<div>
+<h3>About this file</h3>
+<p>Password - 670k unique values for password collected online.
+Strength - three values(0 , 1 , 2) i.e. 0 for weak, 1 for medium, 2 for strong.
+Strength of the password based on rules(such as containing digits, special symbols , etc.)</p>
+</div>
 
