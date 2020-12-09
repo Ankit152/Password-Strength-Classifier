@@ -1,7 +1,7 @@
 # Password Strength Classifier
 
 <div>
-    A Machine Learning model that predicts whether the password is strong or not.
+    <h2>A Machine Learning model that predicts whether the password is strong or not.</h2>
 </div>
 
 <p>The passwords used in our analysis are from 000webhost leak that is available online. How did we figure out which passwords were stronger and which were weaker? Well, there is a tool called PARS by Georgia Tech university which have all the commercial password meters integrated into it. All I did was give that tool all the passwords and it gave me new files for each commercial password strength meter. The files contained the passwords with one more column i.e their strength based on the commercial password strength meters.</p>
