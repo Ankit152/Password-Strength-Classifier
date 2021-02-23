@@ -1,4 +1,4 @@
-# Password Strength Classifier
+# Password Strength Classifier 🔑
 
 <div>
     <h2>A Machine Learning model that predicts whether the password is strong or not.</h2>
@@ -17,3 +17,35 @@ Strength - three values(0 , 1 , 2) i.e. 0 for weak, 1 for medium, 2 for strong.
 Strength of the password based on rules(such as containing digits, special symbols , etc.)</p>
 </div>
 
+## Plots for better understanding 📊
+
+### Value Counts of Strength 💪
+<p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/strength.jpg" height="480">
+ </p>
+ 
+ ### Length of a Password 📏
+ <p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/length.jpg" height="480">
+ </p>
+ 
+ ### Capital letters in a Password 🔠
+ <p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/capital.jpg" height="480">
+ </p>
+ 
+### Small letters in a Password 🔡
+ <p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/small.jpg" height="480">
+</p>
+ 
+### Numeric values in a Password 🔢
+<p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/numerics.jpg" height="480">
+ </p>
+ 
+### Special characters in a Password 🔣
+<p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/special.jpg" height="480">
+ </p>
+ 
