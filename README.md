@@ -49,3 +49,13 @@ Strength of the password based on rules(such as containing digits, special symbo
     <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/special.jpg" height="480">
  </p>
  
+### The model performance 🥇
+Here we have used `MLP Classifier` from sklearn with `2 hidden layers each having 16 nodes with ReLU activation.` The accuracy of the model reached `99.99%` as the model made only one mis-classification. Here is the confusion matrix for better understanding:
+<p align="center">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/confusion.jpg" height="480">
+</p>
+
+
+The scaler value as well as the model is saved in the asset folder.
+
+*`This was just a tutorial how powerful can feature engineering be.`*
