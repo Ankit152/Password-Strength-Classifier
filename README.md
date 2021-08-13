@@ -21,38 +21,38 @@ Strength of the password based on rules(such as containing digits, special symbo
 
 ### Value Counts of Strength 💪
 <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/strength.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/strength.jpg" height="600" width="900">
  </p>
  
  ### Length of a Password 📏
  <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/length.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/length.jpg" height="600" width="900">
  </p>
  
  ### Capital letters in a Password 🔠
  <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/capital.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/capital.jpg" height="600" width="900">
  </p>
  
 ### Small letters in a Password 🔡
  <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/small.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/small.jpg" height="600" width="900">
 </p>
  
 ### Numeric values in a Password 🔢
 <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/numerics.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/numerics.jpg" height="600" width="900">
  </p>
  
 ### Special characters in a Password 🔣
 <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/special.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/special.jpg" height="600" width="900">
  </p>
  
 ### The model performance 🥇
 Here we have used `MLP Classifier` from sklearn with `2 hidden layers each having 16 nodes with ReLU activation.` The accuracy of the model reached `99.99%` as the model made only one mis-classification. Here is the confusion matrix for better understanding:
 <p align="center">
-    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/confusion.jpg" height="720">
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/confusion.jpg" height="600" width="900">
 </p>
 
 
