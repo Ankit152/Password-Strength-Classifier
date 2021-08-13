@@ -1,4 +1,7 @@
 # Password Strength Classifier 🔑
+<p align=center>
+    <img src="https://github.com/Ankit152/Password-Strength-Classifier/blob/main/img/password.jpg">
+</p>
 
 <div>
     <h2>A Machine Learning model that predicts whether the password is strong or not.</h2>
